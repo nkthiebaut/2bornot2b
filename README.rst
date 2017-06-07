@@ -35,8 +35,7 @@ In order to make a submission you can use the nb2script.sh script that converts 
 Remarks
 -------
 
-*Various difficulties in English conjugation are highlighted `here <http://grammar.ccc.commnet.edu/grammar/to_be.htm>`_.
-
+* Various difficulties in English conjugation are highlighted `here <http://grammar.ccc.commnet.edu/grammar/to_be.htm>`_.
 * The Custom RNN implementation is inspired by the `WildML <http://www.wildml.com>`_ blog.
 
 

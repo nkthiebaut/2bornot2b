@@ -8,7 +8,8 @@
 2bornot2b
 =========
 
-Hacker rank challenge: https://www.hackerrank.com/challenges/to-be-what
+Hacker rank challenge codes: https://www.hackerrank.com/challenges/to-be-what
+
 **Goal**: determine the "be" verb conjugation in a text, among 8 possible forms: 'am','are','were','was','is','been','being','be'.
 
 Two models are implemented here:
@@ -35,6 +36,7 @@ Remarks
 -------
 
 *Various difficulties in English conjugation are highlighted `here <http://grammar.ccc.commnet.edu/grammar/to_be.htm>`_.
+
 * The Custom RNN implementation is inspired by the `WildML <http://www.wildml.com>`_ blog.
 
 
